@@ -1,5 +1,5 @@
 <template>
- <div class="bg-black main">
+ <div class="bg-black main h-[75vh]">
   <div class="w-1/2 h-full border-r inline-block"></div>
   <div class="w-1/2 h-full border border-yellow-500 inline-block">
    <div class="w-1/2 h-full border border-green-600">
@@ -16,7 +16,7 @@
 <script setup></script>
 
 <style>
- .main {
+ /* .main {
   height: 65vh;
- }
+ } */
 </style>
